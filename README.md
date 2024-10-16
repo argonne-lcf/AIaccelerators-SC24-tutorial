@@ -1,33 +1,46 @@
 # Programming Novel AI Accelerators for Scientific Computing
 
-Scientific applications are increasingly adopting Artificial Intelligence (AI) techniques to advance science. There are specialized hardware accelerators designed and built to run AI applications efficiently. With a wide diversity in the hardware architectures and software stacks of these systems, it is challenging to understand the differences between these accelerators, their capabilities, programming approaches, and how they perform, particularly for scientific applications. 
+Scientific applications are increasingly adopting Artificial Intelligence (AI) techniques to advance science. There are specialized hardware accelerators designed and built to run AI applications efficiently. With a wide diversity in the hardware architectures and software stacks of these systems, it is challenging to understand the differences between these accelerators, their capabilities, programming approaches, and how they perform, particularly for scientific applications. In this tutorial, we will cover an overview of the AI accelerators landscape focusing on SambaNova, Cerebras, Graphcore, Groq, and Habana systems along with architectural features and details of their software stacks. We will have hands-on exercises to help attendees understand how to program these systems by learning how to refactor codes and compile and run the models on these systems. The tutorial will provide the attendees with an understanding of the key capabilities of emerging AI accelerators and their performance implications for scientific applications
 
-In this tutorial, we will cover an overview of the AI accelerators landscape with a focus on SambaNova, Cerebras, Graphcore, Groq, and Habana systems along with architectural features and details of their software stacks. We will have hands-on exercises that will help attendees understand how to program these systems by learning how to refactor codes written in standard AI framework implementations and compile and run the models on these systems. The tutorial will enable the attendees with an understanding of the key capabilities of emerging AI accelerators and their performance implications for scientific applications.
+<!-- In this tutorial, we will cover an overview of the AI accelerators landscape with a focus on SambaNova, Cerebras, Graphcore, Groq, and Habana systems along with architectural features and details of their software stacks. We will have hands-on exercises that will help attendees understand how to program these systems by learning how to refactor codes written in standard AI framework implementations and compile and run the models on these systems. The tutorial will enable the attendees with an understanding of the key capabilities of emerging AI accelerators and their performance implications for scientific applications. -->
 
 
 ## Tutorial at SC23
 
-| Date      | November 2023     |
-|-----------|------------------------------|
-| Time      |          |
-| Location  |  |
+| Date      | 17 November 2023       |
+|-----------|------------------------|
+| Time      |  8:30am - 5pm EST      |
+| Location  |  B201                  |
 
 
 ## Agenda
 
-| Time (MST)          | Topic                                                   |
-|--------------------|---------------------------------------------------------|
-| 08.30 - 8.35       |  Murali Emani(ANL) 
+|      Time (EST)       |                        Topic/ Speaker                                                              |
+|-----------------------|----------------------------------------------------------------------------------------------------|
+|    08.30 - 08.40 AM   |  Programming Novel AI Accelerators for Scientific Computing <br> Murali Emani(ANL) <br> [Slides]()        |
+|    08.40 - 09.10 AM   |  Cerebras Talk Title (TBD) <br> Leighton Wilson (Cerebras) <br> [Slides]()                                       |
+|    09.10 - 10.00 AM   |  Hands-on With Cerebras Systems <br> Leighton Wilson (Cerebras), Sid Raskar (ANL) <br> [Instructions](./Cerebras/README.MD) | 
+|    10.00 - 10.30 AM   |  Coffee Break | 
+|    10.30 - 11.00 AM   |  Habana Talk Title (TBD) <br> Buke Ao (Intel Habana) <br> [Slides]()  |
+|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [Instrcutions](./Habana/README.MD)  |
+|    11.30 - 12.00 PM   |  Sambanova Talk Title (TBD) <br> Petro Junior Milan (Sambanova) <br> [Slides]()  |
+|    12.00 - 01.30 PM   |  Lunch Break | 
+|    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Sid Raskar (ANL) <br> [Instrcutions](./Sambanova/README.MD)  |
+|    02.00 - 02.30 PM   |  Groq Talk Title (TBD) <br> Sanjif Shanmugavelu (Groq) <br> [Slides]()  |
+|    02.30 - 03.00 PM   |  Hands-on with Groq Systems <br> Sanjif Shanmugavelu (Groq), Sid Raskar (ANL) <br> [Instrcutions](./Groq/README.MD)  |
+|    03.00 - 03.30 PM   |  Coffee Break | 
+|    03.30 - 04.00 PM   |  Graphcore Talk Title (TBD) <br> Sid Raskar (ANL) <br> [Slides]()  |
+|    04.00 - 04.30 PM   |  Hands-on with Grapchore Systems <br> Sid Raskar (ANL) <br> [Instrcutions](./Graphcore/README.MD)  |
 
 
 
-## Hands-On Session
+<!-- ## Instructions for Hands-On Session
 
 * [SambaNova](./SambaNova/README.md)                                    
 * [Graphcore](./Graphcore/README.md)  
 * [Cerebras](./Cerebras/README.md)    
 * [Groq](./Groq/README.md)        
-* [Habana](./Habana/README.md)      
+* [Habana](./Habana/README.md)       -->
 
 
 ## Request Account on AI Testbeds At ALCF
