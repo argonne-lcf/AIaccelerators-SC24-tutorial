@@ -88,10 +88,10 @@ execution on the WSE with a GUI.
 
 ## Next Steps
 
-For convenience, this repository contains a couple of example program for running the SDK simulator.
+For convenience, this repository contains a few example programs for running the SDK simulator.
 This and more example programs can be found on ALCF at
 `/software/cerebras/cs_sdk-1.2.0/csl-extras-202406260214-4-70afe120/examples`.
-Copy these to your home directory to run.
+Copy these to your home directory to run them.
 
 ## More Information
 
