@@ -22,7 +22,7 @@ Scientific applications are increasingly adopting Artificial Intelligence (AI) t
 |    09.10 - 10.00 AM   |  Hands-on With Cerebras Systems <br> Leighton Wilson (Cerebras), Sid Raskar (ANL) <br> [Instructions](./Cerebras/README.MD) | 
 |    10.00 - 10.30 AM   |  Coffee Break | 
 |    10.30 - 11.00 AM   |  Habana: Buke Ao (Intel Habana) <br> [Slides]()  |
-|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Milind S Pandit (Intel Habana) <br> [Instructions](./Habana/README.MD)  |
+|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [Instructions](./Habana/README.MD)  |
 |    11.30 - 12.00 PM   |  Sambanova: Petro Junior Milan (Sambanova) <br> [Slides]()  |
 |    12.00 - 01.30 PM   |  Lunch Break | 
 |    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Sid Raskar (ANL) <br> [Instructions](./Sambanova/README.MD)  |
