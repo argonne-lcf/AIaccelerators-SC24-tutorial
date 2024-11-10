@@ -17,20 +17,20 @@ Scientific applications are increasingly adopting Artificial Intelligence (AI) t
 
 |      Time (EST)       |                        Topic/ Speaker                                                              |
 |-----------------------|----------------------------------------------------------------------------------------------------|
-|    08.30 - 08.40 AM   |  Overview: Murali Emani(ANL) <br> [Slides]()        |
-|    08.40 - 09.10 AM   |  Cerebras: Leighton Wilson (Cerebras) <br> [Slides AI](./Slides/Sc24%20Cerebras%20AI%20Overview.pdf) [Slides SDK](./Slides/SC24%20Cerebras%20SDK.pdf)                                       |
-|    09.10 - 10.00 AM   |  Hands-on With Cerebras Systems <br> Leighton Wilson (Cerebras), Sid Raskar (ANL) <br> [Instructions](./Cerebras/README.MD) | 
+|    08.30 - 08.40 AM   |  Overview: Murali Emani(ANL) <br> [[Slides]()]        |
+|    08.40 - 09.10 AM   |  Cerebras: Leighton Wilson (Cerebras) <br> [[Slides AI](./Slides/Sc24%20Cerebras%20AI%20Overview.pdf)]  [[Slides SDK](./Slides/SC24%20Cerebras%20SDK.pdf)]                                       |
+|    09.10 - 10.00 AM   |  Hands-on With Cerebras Systems <br> Leighton Wilson (Cerebras), Sid Raskar (ANL) <br> [[Instructions](./Cerebras/README.MD)] | 
 |    10.00 - 10.30 AM   |  Coffee Break | 
-|    10.30 - 11.00 AM   |  Habana: Buke Ao (Intel Habana) <br> [Slides](./Slides/SC24%20Intel%20Habana.pdf)  |
-|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [Instructions](./Habana/README.MD)  |
-|    11.30 - 12.00 PM   |  Sambanova: Petro Junior Milan (Sambanova) <br> [Slides](./Slides/SC24%20SambaNova.pdf)  |
+|    10.30 - 11.00 AM   |  Habana: Buke Ao (Intel Habana) <br> [[Slides](./Slides/SC24%20Intel%20Habana.pdf)]  |
+|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [[Instructions](./Habana/README.MD)]  |
+|    11.30 - 12.00 PM   |  Sambanova: Petro Junior Milan (Sambanova) <br> [[Slides](./Slides/SC24%20SambaNova.pdf)]  |
 |    12.00 - 01.30 PM   |  Lunch Break | 
-|    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Sid Raskar (ANL) <br> [Instructions](./Sambanova/README.MD)  |
-|    02.00 - 02.30 PM   |  Groq: Sanjif Shanmugavelu (Groq) <br> [Slides](./Slides/SC24%20Groq.pdf)  |
-|    02.30 - 03.00 PM   |  Hands-on with Groq Systems <br> Sanjif Shanmugavelu (Groq), Sid Raskar (ANL) <br> [Instructions](./Groq/README.MD)  |
+|    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Sid Raskar (ANL) <br> [[Instructions](./Sambanova/README.MD)]  |
+|    02.00 - 02.30 PM   |  Groq: Sanjif Shanmugavelu (Groq) <br> [[Slides](./Slides/SC24%20Groq.pdf)]  |
+|    02.30 - 03.00 PM   |  Hands-on with Groq Systems <br> Sanjif Shanmugavelu (Groq), Sid Raskar (ANL) <br> [[Instructions](./Groq/README.MD)]  |
 |    03.00 - 03.30 PM   |  Coffee Break | 
-|    03.30 - 04.00 PM   |  Graphcore: Sid Raskar (ANL) <br> [Slides](./Slides/SC24%20Graphcore.pdf)  |
-|    04.00 - 04.30 PM   |  Hands-on with Grapchore Systems <br> Sid Raskar (ANL) <br> [Instructions](./Graphcore/README.MD)  |
+|    03.30 - 04.00 PM   |  Graphcore: Sid Raskar (ANL) <br> [[Slides](./Slides/SC24%20Graphcore.pdf)]  |
+|    04.00 - 04.30 PM   |  Hands-on with Grapchore Systems <br> Sid Raskar (ANL) <br> [[Instructions](./Graphcore/README.MD)]  |
 
 
 
