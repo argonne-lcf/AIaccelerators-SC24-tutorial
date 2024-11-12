@@ -50,7 +50,7 @@ Each of the samples or application examples provided by SambaNova has its own pr
 
 # Useful Resources 
 
-* [ALCF Sambanova Documentation](https://docs.alcf.anl.gov/ai-testbed/sambanova_gen2/getting-started/)
+* [ALCF Sambanova Documentation](https://docs.alcf.anl.gov/ai-testbed/sambanova/getting-started/)
 * [Sambanova Documentation](https://docs.sambanova.ai/developer/latest/sambaflow-intro.html) 
 * Sambanova Applications Path: `/opt/sambaflow/apps/`
 * Sambanova Model scripts: `/data/ANL/scripts/`
