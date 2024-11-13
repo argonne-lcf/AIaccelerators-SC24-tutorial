@@ -1,4 +1,4 @@
-# Sambanova
+# Training on the SambaNova DataScale SN30 
 
 ## Connection to Sambanova 
 
