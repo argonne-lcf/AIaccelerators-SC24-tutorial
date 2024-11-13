@@ -46,6 +46,8 @@ Each of the samples or application examples provided by SambaNova has its own pr
 
 ## Next Steps 
 
+Try additional examples.
+
 * [Lenet](./lenet.md)
 
 # Useful Resources 
