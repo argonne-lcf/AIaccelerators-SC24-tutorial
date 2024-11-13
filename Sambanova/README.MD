@@ -1,4 +1,4 @@
-# Hands-on With SambaNova Systems 
+# Hands-on with SambaNova Systems 
 
 This hands-on session is divided into two parts: 
 
