@@ -70,7 +70,7 @@ This function calling kit is an example of tools calling implementation and a ge
 
 ### Enterprise Knowledge Retriever (RAG)
 
-The Enterprise Knowledge Retriever Kit allows you to quickly build a semantic search RAG application with Langchain and Streamlit in Python. To build a complete Enterprise knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
+The Enterprise Knowledge Retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete Enterprise knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
 
 
 
