@@ -2,9 +2,13 @@
 
 ## Connection to SambaNova 
 
+Connection to a SambaNova node is a two-step process. The first step is to ssh to the login node. The second step is to log in to a SambaNova node from the login node.
+
 ![Sambanova connection diagram](./sambanova_login.jpg)
 
-Log in to the Sambanova login node from your local machine. This uses the **MobilePASS+** token generated every time you log in to the system. 
+### Log in to Login Node
+
+Log in to the SambaNova login node from your local machine. This uses the **MobilePASS+** token generated every time you log in to the system. 
 
 In the example below, replace ALCFUserID with your ALCF user id.
 ```bash
@@ -12,13 +16,15 @@ ssh ALCFUserID@sambanova.alcf.anl.gov
 Password: < MobilePASS+ code >
 ```
 
-Once you are on the login node, ssh to one of the sambanova nodes.
+### Log in to a SambaNova Node
+
+Once you are on the login node, ssh to one of the SambaNova nodes. For example:
 
 ```bash
 ssh sn30-r1-h1       
 ```
 
-You can also ssh to `sn30-r1-h1` , `sn30-r1-h2`, `sn30-r2-h1`, `sn30-r2-h2`, `sn30-r3-h1`, `sn30-r3-h2`, `sn30-r4-h1`, `sn30-r4-h2`.
+You can also ssh to `sn30-r1-h2`, `sn30-r2-h1`, `sn30-r2-h2`, `sn30-r3-h1`, `sn30-r3-h2`, `sn30-r4-h1`, `sn30-r4-h2`.
 
 ## Sambanova Examples
 
