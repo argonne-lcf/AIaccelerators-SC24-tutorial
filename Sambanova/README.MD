@@ -1,6 +1,6 @@
-# Hands-on With Sambanova Systems 
+# Hands-on With SambaNova Systems 
 
-This hands-on session is divided between two systems: 
+This hands-on session is divided into two parts: 
 
-* [Getting started with AI inference on the SambaNova Cloud](./Sambanova_Cloud/7B)
-* [Getting started with AI training on SambaNova SN30 DataScale at the ALCF AI testbed](./ALCF/)
+* [AI inference on the SambaNova Cloud](./Sambanova_Cloud/7B)
+* [AI training on SambaNova SN30 DataScale at the ALCF AI testbed](./ALCF/)
