@@ -1,5 +1,7 @@
 # Training on the SambaNova DataScale SN30 
 
+The SambaNova DataScale is a fully-integrated hardware-software AI system for model training, fine-tuning, and inference. 
+
 ## Connection to SambaNova 
 
 Connection to a SambaNova node is a two-step process. The first step is to ssh to the login node. The second step is to log in to a SambaNova node from the login node.
