@@ -4,7 +4,7 @@
 
 Get started using the SambaNova Cloud API in just a few minutes!
 
-### Step 1: Get your API key
+### Get your API key
 
 1. Create an account on the [SambaNova Developer Portal](https://cloud.sambanova.ai/) to get an API key.
 2. Once logged in, navigate to the API section and generate a new key. 
@@ -13,13 +13,52 @@ Get started using the SambaNova Cloud API in just a few minutes!
    export SAMBANOVA_API_KEY="your-api-key-here"
    ```
 
-### Step 2: Pick a model
+### Pick a model
 
 The SambaNova cloud offers the latest open source models running at the fastest tokens per second.
 
 To make an inference request from a model, you’ll need the model’s corresponding model-id. The full list of models and corresponding model-id’s are [listed here](https://community.sambanova.ai/t/supported-models/193).
 
-Step 3: Make an API request
+### Make an API request
+
+Install the OpenAI Python library:
+```shell  
+pip install openai
+```
+
+Perform a chat completion:
+
+```python
+from openai import OpenAI
+import os
+
+api_key = os.environ.get("SAMBANOVA_API_KEY")
+
+client = OpenAI(
+    base_url="https://api.sambanova.ai/v1/",
+    api_key=api_key,  
+)
+
+model = "Meta-Llama-3.1-405B-Instruct"
+prompt = "Tell me a joke about artificial intelligence."
+
+completion = client.chat.completions.create(
+    model=model,
+    messages=[
+        {
+            "role": "user", 
+            "content": prompt,
+        }
+    ],
+    stream=True,
+)
+
+response = ""
+for chunk in completion:
+    response += chunk.choices[0].delta.content or ""
+
+print(response)
+```
 
 
 
