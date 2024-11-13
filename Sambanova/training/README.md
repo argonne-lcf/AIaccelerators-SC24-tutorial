@@ -1,6 +1,6 @@
 # Training on the SambaNova DataScale SN30 
 
-## Connection to Sambanova 
+## Connection to SambaNova 
 
 ![Sambanova connection diagram](./sambanova_login.jpg)
 
@@ -41,12 +41,6 @@ Each of the samples or application examples provided by SambaNova has its own pr
 ## Next Steps 
 
 * [Lenet](./lenet.md)
-
-## Useful Directories 
-
-* Sambanova Applications Path : `/opt/sambaflow/apps`
-* Sambanova Model Scripts : `/data/ANL/scripts`
-* Important Datasets  : `/software/sambanova/dataset`
 
 # Useful Resources 
 
