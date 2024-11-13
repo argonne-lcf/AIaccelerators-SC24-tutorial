@@ -60,5 +60,16 @@ for chunk in completion:
 print(response)
 ```
 
+## AI Starter Kits
+
+SambaNova AI Starter Kits are a collection of open-source examples and guides to facilitate the deployment of AI-driven use cases in the enterprise. 
+
+This function calling kit is an example of tools calling implementation and a generic function calling module that can be used inside your application workflows. To build a complete function calling app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/tree/main/function_calling). 
+
+The Enterprise Knowledge Retriever Kit allows you to quickly build a semantic search RAG application with Langchain and Streamlit in Python. To build a complete Enterprise knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
+
+
+
+
 
 
