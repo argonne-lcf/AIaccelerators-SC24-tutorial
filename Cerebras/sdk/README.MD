@@ -88,8 +88,11 @@ execution on the WSE with a GUI.
 
 ## Next Steps
 
-For convenience, this repository contains a few example programs for running the SDK simulator.
-This and more example programs can be found on ALCF at
+For convenience, this repository contains two example programs for running the SDK simulator:
+- [Single-PE GEMV](single-pe-gemv/README.MD) performs a matrix-vector computation on a single PE,
+- and [Two-PE GEMV](two-pe-gemv/README.MD) distributes this computation between two PEs.
+
+These and more example programs can be found on ALCF at
 `/software/cerebras/cs_sdk-1.2.0/csl-extras-202406260214-4-70afe120/examples`.
 Copy these to your home directory to run them.
 
