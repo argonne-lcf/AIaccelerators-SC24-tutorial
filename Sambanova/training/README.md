@@ -34,9 +34,9 @@ Copy those examples to your home directory.
 cp -r /opt/sambaflow/apps/ ~
 ```
 
-## Create Virtual Environment 
+## Virtual Environments 
 
-Sambanova software stack and associated environmental variables are setup at login. 
+SambaNova software stack and associated environmental variables are setup at login. 
 
 Each of the samples or application examples provided by SambaNova has its own pre-built virtual environment which can be readily used. They are present in the `/opt/sambaflow/apps/` directory tree within each of the applications. 
 
