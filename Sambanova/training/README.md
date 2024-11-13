@@ -26,10 +26,12 @@ ssh sn30-r1-h1
 
 You can also ssh to `sn30-r1-h2`, `sn30-r2-h1`, `sn30-r2-h2`, `sn30-r3-h1`, `sn30-r3-h2`, `sn30-r4-h1`, `sn30-r4-h2`.
 
-## Sambanova Examples
+## SambaNova Example Programs
 
-We use examples from Sambanova for this hands-on. 
-Copy those examples to your home directory. 
+Use the examples of well-known AI applications under the path: `/opt/sambaflow/apps`, on all SambaNova compute nodes. 
+
+Make a copy of this to your home directory:
+
 ```bash
 cp -r /opt/sambaflow/apps/ ~
 ```
@@ -48,7 +50,7 @@ Each of the samples or application examples provided by SambaNova has its own pr
 
 Try additional examples.
 
-* [Lenet](./lenet.md)
+* [LeNet](./lenet.md)
 
 # Useful Resources 
 
