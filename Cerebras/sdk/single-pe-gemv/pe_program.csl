@@ -42,7 +42,7 @@ var b_ptr: [*]f32 = &b;
 const y_ptr: [*]f32 = &y;
 
 // Compute gemv
-fn gemv() void {
+fn compute_gemv() void {
   // Loop over all columns of A
   for (@range(i16, N)) |i| {
     // Calculate contribution to A*x from ith column of A, ith elem of x
@@ -52,11 +52,8 @@ fn gemv() void {
   }
   // Add b to A*x
   @fadds(y_dsd, y_dsd, b_dsd);
-}
 
-// Call initialize and gemv functions
-fn compute() void {
-  gemv();
+  // Unblock memcpy cmd stream
   sys_mod.unblock_cmd_stream();
 }
 
@@ -65,5 +62,5 @@ comptime {
   @export_symbol(x_ptr, "x");
   @export_symbol(b_ptr, "b");
   @export_symbol(y_ptr, "y");
-  @export_symbol(compute);
+  @export_symbol(compute_gemv);
 }

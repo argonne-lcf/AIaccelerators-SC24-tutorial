@@ -12,13 +12,23 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+param M: i16;
+param N: i16;
+
 const memcpy = @import_module("<memcpy/get_params>", .{ .width = 1, .height = 1 });
 
 layout {
   @set_rectangle(1, 1);
-  @set_tile_code(0, 0, "pe_program.csl", .{ .memcpy_params = memcpy.get_params(0) });
+  @set_tile_code(0, 0, "pe_program.csl", .{
+    .memcpy_params = memcpy.get_params(0),
+    .M = M,
+    .N = N
+  });
 
   // export symbol names
+  @export_name("A", [*]f32, true);
+  @export_name("x", [*]f32, true);
+  @export_name("b", [*]f32, true);
   @export_name("y", [*]f32, false);
-  @export_name("init_and_compute", fn()void);
+  @export_name("compute_gemv", fn()void);
 }
