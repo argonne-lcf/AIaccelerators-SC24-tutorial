@@ -23,16 +23,18 @@ To make an inference request from a model, you’ll need the model’s correspon
 
 ### Make an API request
 
-You can make an inference request in Python using two approaches:
-1. LangChain connectors (refer to the AI Starter Kits documentation)
-2. Open AI client library (see the example below)
+You can make an inference request to our models in Python using two approaches:
+1. LangChain connectors (refer to the AI Starter Kits documentation).
+2. Open AI client library (see the example below).
+
+#### OpenAI client library
 
 Install the OpenAI Python library using pip, as shown below:
 ```shell  
 pip install openai
 ```
 
-Next, copy the code below into a python file called, hello_world.py.
+Next, copy the code below into a python file called, `hello_world.py`.
 
 ```python
 from openai import OpenAI
