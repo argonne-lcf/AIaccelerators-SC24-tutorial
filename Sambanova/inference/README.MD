@@ -23,12 +23,16 @@ To make an inference request from a model, you’ll need the model’s correspon
 
 ### Make an API request
 
-Install the OpenAI Python library:
+You can make an inference request in Python using two approaches:
+1. LangChain connectors (refer to the AI Starter Kits documentation)
+2. Open AI client library (see the example below)
+
+Install the OpenAI Python library using pip, as shown below:
 ```shell  
 pip install openai
 ```
 
-Perform a chat completion:
+Next, copy the code below into a python file called, hello_world.py.
 
 ```python
 from openai import OpenAI
@@ -62,9 +66,25 @@ for chunk in completion:
 print(response)
 ```
 
+Then run the file as shown below:
+```shell  
+python hello_word.py
+```
+
 ## AI Starter Kits
 
 SambaNova AI Starter Kits are a collection of open-source examples and guides to facilitate the deployment of AI-driven use cases, designed to support both enterprises and developers in their AI adoption journeys.
+
+Clone the starter kit repo.
+```
+git clone https://github.com/sambanova/ai-starter-kit.git
+```
+
+### Function Calling 
+
+After you clone the repository, go to ai-starter-kit/quickstart
+
+, and run the function_calling_get_started.ipynb notebook.
 
 ### Function Calling
 
