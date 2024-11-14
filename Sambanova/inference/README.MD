@@ -8,7 +8,7 @@ Get started using the SambaNova Cloud API in just a few minutes!
 
 ### Get your API key
 
-1. Create an account on the [SambaNova Developer Portal](https://cloud.sambanova.ai/) to get an API key.
+1. Create an account on the [SambaNova Cloud Developer Portal](https://cloud.sambanova.ai/) to get an API key.
 2. Once logged in, navigate to the API section and generate a new key. 
 3. Set your API key as an environment variable:
    ```shell
