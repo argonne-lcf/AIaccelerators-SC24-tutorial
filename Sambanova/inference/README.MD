@@ -75,7 +75,7 @@ python hello_word.py
 
 ## AI Starter Kits
 
-SambaNova AI Starter Kits are a collection of open-source examples and guides to facilitate the deployment of AI-driven use cases, designed to support both enterprises and developers in their AI adoption journeys.
+[SambaNova AI Starter Kits](https://github.com/sambanova/ai-starter-kit/) are a collection of open-source examples and guides to facilitate the deployment of AI-driven use cases, designed to support both enterprises and developers in their AI adoption journeys.
 
 Clone the starter kit repo.
 ```
