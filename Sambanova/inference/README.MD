@@ -1,6 +1,6 @@
 # Inference using the SambaNova Cloud
 
-SambaNova Cloud is an API service for inference at record-breaking speeds. 
+[SambaNova Cloud](https://cloud.sambanova.ai/) is an API service for inference at record-breaking speeds. 
 
 ## Quick Start Guide
 
