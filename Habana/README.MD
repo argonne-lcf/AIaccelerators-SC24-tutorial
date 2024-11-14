@@ -8,7 +8,7 @@ We have Intel AI Cloud. You can sign up for an account and use our coupon to try
 ## Run Examples
 
 Refer to respective instrcutions below 
-* [MNIST](./llama2_fine_tuning_inference_single.ipynb)
+* [Llama training and Inference](./llama2_fine_tuning_inference_single.ipynb)
 * [Stable Diffusion](./stable_diffusion_v_2_1.ipynb)
 
 
