@@ -92,13 +92,11 @@ SAMBANOVA_API_KEY = "your-api-key-here"
 
 **Note**: If you've already set your API key as an environment variable (for example, in your `.bashrc` or `.zshrc`), there's no need to create the `.env` file.
 
-Below, there are examples you can try. We recommend using **Python >= 3.10 and < 3.12**. 
+Below are three examples you can try. **We recommend using Python >= 3.10 and < 3.12**. 
 
 ### Example 1: Function Calling Basics 
 
-After you clone the repository, go to ai-starter-kit/quickstart
-
-, and run the function_calling_get_started.ipynb notebook.
+After you clone the repository, go to `ai-starter-kit/quickstart` and run the [function_calling_get_started.ipynb notebook](https://github.com/sambanova/ai-starter-kit/blob/main/quickstart/function_calling_get_started.ipynb).
 
 ### Example 2: Complete Function Calling App
 
@@ -106,7 +104,7 @@ This function calling kit is an example of tools calling implementation and a ge
 
 ### Example 3: Complete Document Knowledge Retriever App
 
-The Enterprise Knowledge Retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete Enterprise knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
+The document knowledge retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete document knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
 
 
 
