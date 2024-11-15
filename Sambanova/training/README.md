@@ -47,6 +47,7 @@ Each of the samples or application examples provided by SambaNova has its own pr
 ## Hands-on Session Example 
 
 * [GPT](./gpt.md)
+* [Llama 2 7B ModelBox](./llama7b_modelbox.md)
 
 ## Next Steps 
 
