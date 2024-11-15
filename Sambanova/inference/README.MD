@@ -77,10 +77,19 @@ python hello_word.py
 
 [SambaNova AI Starter Kits](https://github.com/sambanova/ai-starter-kit/) are a collection of open-source examples and guides to facilitate the deployment of AI-driven use cases, designed to support both enterprises and developers in their AI adoption journeys.
 
-Clone the starter kit repo.
+Start by cloning the starter kit repo:
 ```
 git clone https://github.com/sambanova/ai-starter-kit.git
 ```
+
+Then, update the API information by configuring the environment variables in the `ai-starter-kit/.env` file:
+- Create the `.env` file at `ai-starter-kit/.env` if the file does not exist.
+- Enter the SambaNova Cloud API key in the `.env` file, for example:
+  
+```bash
+SAMBANOVA_API_KEY = "your-api-key-here"
+```
+
 
 ### Function Calling 
 
