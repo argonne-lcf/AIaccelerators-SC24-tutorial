@@ -15,9 +15,9 @@
    export STEPS_THIS_RUN=10
    ```
 
-   **Note**: make sure you set the `OUTPUT_PATH` in `7B_modelbox_fine_tuning_setup.sh` and `7B_modelbox_fine_tuning_run.sh` depending on where you copied the bash scripts. If you placed them under `$HOME/llama7b` as instructed in Step 1, then no changes are needed. 
+   **Note**: make sure you set the `OUTPUT_PATH` in both `7B_modelbox_fine_tuning_setup.sh` and `7B_modelbox_fine_tuning_run.sh`, depending on where you copied the bash scripts. If you placed them under `$HOME/llama7b` as instructed in Step 1, no changes are needed. 
 
-3. SambaNova uses SLURM for job submission and queueing. Submit the job by executing the `7B_modelbox_fine_tuning_setup.sh` script. For example:
+3. SambaNova uses SLURM for job submission and queueing. Submit the job by executing the `7B_modelbox_fine_tuning_setup.sh` bash script. For example:
 
    ```bash
    ./7B_modelbox_fine_tuning_setup.sh 1 llama_test
@@ -27,7 +27,7 @@
 
 4. You can follow the status of your job using: `squeue`.
    
-5. The log file is placed at `$HOME/llama7b` and is named `7B_MODELBOX_FT_1_nodes.out`:
+5. The log file is located at `$HOME/llama7b` and is named `7B_MODELBOX_FT_1_nodes.out`:
 
    <details>
     <summary>Example of information in the log file </summary>
@@ -52,4 +52,4 @@
 
     </details>
 
-  6. Once the job is completed, you can see the accuracy metrics and checkpoint(s) (if enabled) at `/data/scratch/$HOME/7B_MODELBOX_FT_1_nodes` 
+  6. Once the job is completed, you can see the accuracy metrics and checkpoint(s) (if enabled) at `/data/scratch/$USER/7B_MODELBOX_FT_1_nodes` 
