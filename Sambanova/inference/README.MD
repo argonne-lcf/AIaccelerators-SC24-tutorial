@@ -92,17 +92,19 @@ SAMBANOVA_API_KEY = "your-api-key-here"
 
 **Note**: If you've already set your API key as an environment variable, there's no need to create the `.env` file.
 
-### Function Calling 
+Below, there are examples you can try. We recommend using **Python >= 3.10 and < 3.12**. 
+
+### Example 1: Function Calling basics 
 
 After you clone the repository, go to ai-starter-kit/quickstart
 
 , and run the function_calling_get_started.ipynb notebook.
 
-### Function Calling
+### Example 2: Function Calling app
 
 This function calling kit is an example of tools calling implementation and a generic function calling module that can be used inside your application workflows. To build a complete function calling app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/tree/main/function_calling). 
 
-### Enterprise Knowledge Retriever (RAG)
+### Example 3: Document Knowledge Retriever (RAG) app
 
 The Enterprise Knowledge Retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete Enterprise knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
 
