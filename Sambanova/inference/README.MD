@@ -96,15 +96,15 @@ Below are three examples you can try. **We recommend using Python >= 3.10 and < 
 
 ### Example 1: Function Calling Basics 
 
-After you clone the repository, go to `ai-starter-kit/quickstart` and run the [function_calling_get_started.ipynb notebook](https://github.com/sambanova/ai-starter-kit/blob/main/quickstart/function_calling_get_started.ipynb).
+After cloning the repository, go to `ai-starter-kit/quickstart`. Then, run the [function_calling_get_started.ipynb](https://github.com/sambanova/ai-starter-kit/blob/main/quickstart/function_calling_get_started.ipynb) notebook. 
 
 ### Example 2: Complete Function Calling App
 
-This function calling kit is an example of tools calling implementation and a generic function calling module that can be used inside your application workflows. To build a complete function calling app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/tree/main/function_calling). 
+This function calling kit is an example of tools calling implementation and a generic function calling module that can be used inside your application workflows. To build a complete function calling app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/function_calling). 
 
 ### Example 3: Complete Document Knowledge Retriever App
 
-The document knowledge retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete document knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
+The document knowledge retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete document knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever). 
 
 
 
