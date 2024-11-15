@@ -90,7 +90,7 @@ Then, update the API information by configuring the environment variables in the
 SAMBANOVA_API_KEY = "your-api-key-here"
 ```
 
-**Note**: If you've already set your API key as an environment variable, there's no need to create the `.env` file.
+**Note**: If you've already set your API key as an environment variable (for example, in your `.bashrc` or `.zshrc`), there's no need to create the `.env` file.
 
 Below, there are examples you can try. We recommend using **Python >= 3.10 and < 3.12**. 
 
