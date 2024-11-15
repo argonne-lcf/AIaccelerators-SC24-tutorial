@@ -94,17 +94,17 @@ SAMBANOVA_API_KEY = "your-api-key-here"
 
 Below, there are examples you can try. We recommend using **Python >= 3.10 and < 3.12**. 
 
-### Example 1: Function Calling basics 
+### Example 1: Function Calling Basics 
 
 After you clone the repository, go to ai-starter-kit/quickstart
 
 , and run the function_calling_get_started.ipynb notebook.
 
-### Example 2: Function Calling app
+### Example 2: Complete Function Calling App
 
 This function calling kit is an example of tools calling implementation and a generic function calling module that can be used inside your application workflows. To build a complete function calling app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/tree/main/function_calling). 
 
-### Example 3: Document Knowledge Retriever (RAG) app
+### Example 3: Complete Document Knowledge Retriever App
 
 The Enterprise Knowledge Retriever Kit allows you to quickly build a semantic search retrieval-augmented generation (RAG) application with Langchain and Streamlit in Python. To build a complete Enterprise knowledge retriever app, [click on this AI Starter Kit](https://github.com/sambanova/ai-starter-kit/blob/main/enterprise_knowledge_retriever/README.md). 
 
