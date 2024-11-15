@@ -90,6 +90,7 @@ Then, update the API information by configuring the environment variables in the
 SAMBANOVA_API_KEY = "your-api-key-here"
 ```
 
+**Note**: If you've already set your API key as an environment variable, there's no need to create the `.env` file.
 
 ### Function Calling 
 
