@@ -25,7 +25,7 @@ In this tutorial, we will cover an overview of the AI accelerators landscape foc
 |    10.00 - 10.30 AM   |  Coffee Break | 
 |    10.30 - 11.00 AM   |  Programming Intel Habana Gaudi 2 for Scientific Computing <br> Buke Ao (Intel Habana) <br> [[Slides](./Slides/SC24%20Intel%20Habana.pdf)]  |
 |    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [[Instructions](./Habana/README.MD)]  |
-|    11.30 - 12.00 PM   |  Programming New AI Accelerators for Scientific Computing <br> Petro Junior Milan (Sambanova) <br> [[Slides](./Slides/SC24%20SambaNova.pdf)]  |
+|    11.30 - 12.00 PM   |  GenAI Training and Inference at Scale with SambaNova Systems <br> Petro Junior Milan (Sambanova) <br> [[Slides](./Slides/SC24%20SambaNova.pdf)]  |
 |    12.00 - 01.30 PM   |  Lunch Break | 
 |    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Varuni Sastry (ANL) <br> [[Instructions](./Sambanova/README.MD)]  |
 |    02.00 - 02.30 PM   |  Groq’s approach to HW/SW Systems for LLM Inference <br> Sanjif Shanmugavelu (Groq) <br> [[Slides](./Slides/SC24%20Groq.pdf)]  |
