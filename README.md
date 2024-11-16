@@ -49,8 +49,10 @@ In this tutorial, we will cover an overview of the AI accelerators landscape foc
 
 * Request an [ALCF Computer User Account](https://accounts.alcf.anl.gov/accountRequest) if you do not currently have one
 * If you have an ALCF Account that is currently inactive, submit an [account reactivation](https://accounts.alcf.anl.gov/accountReactivate) request*.
-* If you have an active ALCF account, click [Join Project](https://accounts.alcf.anl.gov/joinProject) to submit a membership request. Specify the following in your request: 
-  Project Name: `aitestbed_tutorial`
+* If you have an active ALCF account, click [Join Project](https://accounts.alcf.anl.gov/joinProject) to submit a membership request. 
+  
+  <!-- Specify the following in your request: 
+  Project Name: `aitestbed_tutorial` -->
 
 Contact accounts@alcf.anl.gov M-F 9am to 5pm CT. 
 Reach out to us on slack channel `#help-accounts` on [ALCF-AIAccelerator-tutorials](https://join.slack.com/t/alcf-aiacc-tutorials/shared_invite/zt-25yjc7tnm-AlqTNcWrbH0c1KVNEExTuw) Slack. 
