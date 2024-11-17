@@ -14,7 +14,7 @@ qsub -I -l walltime=1:00:00
 
 #### Go to directory with GPT2 example. 
 ```bash
-git clone git@github.com:argonne-lcf/ALCF_Hands_on_HPC_Workshop.git
+git clone https://github.com/argonne-lcf/AIaccelerators-SC24-tutorial.git
 cd ~/AIaccelerators-SC24-tutorial/Groq/ALCF
 ```
 
