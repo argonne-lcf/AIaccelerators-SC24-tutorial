@@ -74,7 +74,7 @@ The ALCF Director’s Discretionary program provides “start up” awards to re
 * [Overview of AI Testbeds at ALCF](https://www.alcf.anl.gov/alcf-ai-testbed)
 * [ALCF AI Testbed Documentation](https://www.alcf.anl.gov/support/ai-testbed-userdocs/)
 * [Director’s Discretionary Allocation Program](https://www.alcf.anl.gov/science/directors-discretionary-allocation-program)
-* [Join Slack Workspace](https://join.slack.com/t/alcf-aiacc-tutorials/shared_invite/zt-25yjc7tnm-AlqTNcWrbH0c1KVNEExTuw)
+* [Join Slack Workspace](https://join.slack.com/t/alcf-aiacc-tutorials/shared_invite/zt-2uma9x2zm-PDm9dlnGZqtO~_DkANZwWA)
 
 ##### Acknowledgements
 
