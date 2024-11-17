@@ -21,18 +21,18 @@ In this tutorial, we will cover an overview of the AI accelerators landscape foc
 |-----------------------|----------------------------------------------------------------------------------------------------|
 |    08.30 - 08.40 AM   |  Programming Novel AI Accelerators for Scientific Computing <br> Murali Emani (ANL) <br> [[Slides](./Slides/ALCF-AITestbed-SC24-tutorial.pdf)]        |
 |    08.40 - 09.10 AM   |  The Power of Wafer-Scale Systems <br> Cerebras HPC Research and SDK Overview <br> Leighton Wilson (Cerebras) <br> [[Slides AI](./Slides/Sc24%20Cerebras%20AI%20Overview.pdf)]  [[Slides SDK](./Slides/SC24%20Cerebras%20SDK.pdf)]                                       |
-|    09.10 - 10.00 AM   |  Hands-on With Cerebras Systems <br> Leighton Wilson (Cerebras), Varuni Sastry (ANL) <br> [[Instructions](./Cerebras/README.MD)] | 
+|    09.10 - 10.00 AM   |  Hands-on With Cerebras Systems <br> Leighton Wilson (Cerebras), Varuni Sastry (ANL) <br> [[Instructions](./Cerebras/)] | 
 |    10.00 - 10.30 AM   |  Coffee Break | 
 |    10.30 - 11.00 AM   |  Programming Intel Habana Gaudi 2 for Scientific Computing <br> Buke Ao (Intel Habana) <br> [[Slides](./Slides/SC24%20Intel%20Habana.pdf)]  |
-|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [[Instructions](./Habana/README.MD)]  |
+|    11.00 - 11.30 AM   |  Hands-on with Intel Habana Gaudi2 <br> Buke Ao (Intel Habana) <br> [[Instructions](./Habana/)]  |
 |    11.30 - 12.00 PM   |  GenAI Training and Inference at Scale with SambaNova Systems <br> Petro Junior Milan (Sambanova) <br> [[Slides](./Slides/SC24%20SambaNova.pdf)]  |
 |    12.00 - 01.30 PM   |  Lunch Break | 
-|    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Varuni Sastry (ANL) <br> [[Instructions](./Sambanova/README.MD)]  |
+|    01.30 - 02.00 PM   |  Hands-on with Sambanova Systems <br> Petro Junior Milan (Sambanova), Varuni Sastry (ANL) <br> [[Instructions](./Sambanova/)]  |
 |    02.00 - 02.30 PM   |  Groq’s approach to HW/SW Systems for LLM Inference <br> Sanjif Shanmugavelu (Groq) <br> [[Slides](./Slides/SC24%20Groq.pdf)]  |
-|    02.30 - 03.00 PM   |  Hands-on with Groq Systems <br> Sanjif Shanmugavelu (Groq), Varuni Sastry (ANL) <br> [[Instructions](./Groq/README.MD)]  |
+|    02.30 - 03.00 PM   |  Hands-on with Groq Systems <br> Sanjif Shanmugavelu (Groq), Varuni Sastry (ANL) <br> [[Instructions](./Groq/)]  |
 |    03.00 - 03.30 PM   |  Coffee Break | 
 |    03.30 - 04.00 PM   |  Introduction to Graphcore's IPU and Programming model : Sid Raskar (ANL) <br> [[Slides](./Slides/SC24%20Graphcore.pdf)]  |
-|    04.00 - 04.30 PM   |  Hands-on with Grapchore Systems <br> Sid Raskar (ANL) <br> [[Instructions](./Graphcore/README.MD)]  |
+|    04.00 - 04.30 PM   |  Hands-on with Grapchore Systems <br> Sid Raskar (ANL) <br> [[Instructions](./Graphcore/)]  |
 
 
 
