@@ -40,10 +40,10 @@ conda activate groqflow
 git clone https://github.com/groq/groqflow.git
 cd groqflow
 pip install --upgrade pip
-pip install -e .
+pip install --user -e .
 pushd . 
 cd demo_helpers
-pip install -e .
+pip install --user -e .
 popd
 ```
 
